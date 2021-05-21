@@ -26,6 +26,7 @@
   https://www.researchgate.net/profile/Rodrigo-Jamisola/publication/341498217_EEG-based_Control_of_a_3D_Game_Using_14-channel_Emotiv_Epoc/links/5ed4d529458515294527a6ec/EEG-based-Control-of-a-3D-Game-Using-14-channel-Emotiv-Epoc.pdf
 
 - Investigation of Feature Extraction Method for EEG Signal Processing
+
   https://www.researchgate.net/profile/Dindar-Saeed/publication/326540699_INVESTIGATION_OF_FEATURE_EXTRACTION_METHODS_FOR_EEG_SIGNAL_PROCESSING/links/5b5387700f7e9b240ff96a42/INVESTIGATION-OF-FEATURE-EXTRACTION-METHODS-FOR-EEG-SIGNAL-PROCESSING.pdf
 
 - DIY Brain Research: Cheap, Quality EEG Data
