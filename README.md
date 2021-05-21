@@ -13,8 +13,9 @@
 - https://github.com/kevinjycui/EEG-Cursor-Control
 - https://openbci.com/ & https://github.com/OpenBCI
 - https://github.com/meagmohit/EEG-Datasets
-- https://www.youtube.com/watch?v=NmZXruqbTVs
-- https://www.youtube.com/watch?v=IBlpodGjBLU
+- https://www.youtube.com/watch?v=NmZXruqbTVs - EEG Based Brain Machine Interface--Online 2D Cursor Control Experiment
+- https://www.youtube.com/watch?v=IBlpodGjBLU - Mind control technology exists, but it needs work
+
 
 **Devices:**
 
