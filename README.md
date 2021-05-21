@@ -4,6 +4,19 @@
 - using your brain signals instead of your computer mouse.
 - using brain signals so people in Coma will be able to communicate ( 30% of people )
 
+**Projects:**
+
+- https://openbci.com/ & https://github.com/OpenBCI
+
+
+**Devices:**
+
+- **EEG-HEADSET COMPARISON TABLE** : https://www.mindtecstore.com/EEG-Headset-comparison-table
+- **A Systemic Review of Available Low-Cost EEG Headsets Used for Drowsiness Detection :** https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full
+- The Emotiv INSIGHT 5 Channel Mobile EEG Jet Black : https://www.emotiv.com/epoc-x/
+- MindWave Mobile 2: Brainwave Starter Kit : https://store.neurosky.com/
+
+
 **Literature:**
 - Of Mice and Mind: Creating a simple EEG cursor-control application
 
@@ -40,13 +53,6 @@
 - site:medium.com eeg cursor|mouse
 - site:github.com eeg cursor|mouse
 
-
-**Devices:**
-
-- EEG-HEADSET COMPARISON TABLE : https://www.mindtecstore.com/EEG-Headset-comparison-table
-- A Systemic Review of Available Low-Cost EEG Headsets Used for Drowsiness Detection : https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full
-- The Emotiv INSIGHT 5 Channel Mobile EEG Jet Black : https://www.emotiv.com/epoc-x/
-- MindWave Mobile 2: Brainwave Starter Kit : https://store.neurosky.com/
 
 
 
