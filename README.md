@@ -6,8 +6,13 @@
 
 **Projects:**
 
+- https://github.com/monkalynn813/Mindwave_controlling_cursor & https://www.youtube.com/watch?v=WFwUBeXI7JE
+- http://openelectronicslab.github.io/eeg-mouse/
+- https://github.com/IevaNavikiene/MindMouse
+- https://github.com/SiwenW/EMOTIV-INSIGHT-EEG-CURSOR-CONTROL
+- https://github.com/kevinjycui/EEG-Cursor-Control
 - https://openbci.com/ & https://github.com/OpenBCI
-
+- https://github.com/meagmohit/EEG-Datasets
 
 **Devices:**
 
