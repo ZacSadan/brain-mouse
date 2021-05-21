@@ -44,3 +44,7 @@
 **Devices:**
 - The Emotiv INSIGHT 5 Channel Mobile EEG Jet Black . https://www.emotiv.com/epoc-x/
 - MindWave Mobile 2: Brainwave Starter Kit https://store.neurosky.com/
+
+https://www.frontiersin.org/articles/10.3389/fninf.2020.553352/full
+
+https://www.mindtecstore.com/EEG-Headset-comparison-table
