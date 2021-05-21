@@ -29,9 +29,9 @@
   https://www.researchgate.net/profile/Dindar-Saeed/publication/326540699_INVESTIGATION_OF_FEATURE_EXTRACTION_METHODS_FOR_EEG_SIGNAL_PROCESSING/links/5b5387700f7e9b240ff96a42/INVESTIGATION-OF-FEATURE-EXTRACTION-METHODS-FOR-EEG-SIGNAL-PROCESSING.pdf
 
 - DIY Brain Research: Cheap, Quality EEG Data
+
   https://medium.com/analytics-vidhya/brain-research-on-the-cheap-ec9710a6c21b 
   
--   
   
 **search tokens:**
 - EEG mouse  brain-computer interface
