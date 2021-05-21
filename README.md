@@ -1,4 +1,4 @@
-# brain-reader
+# Brain Mouse
 
 **Purpose:**
 - using your brain signals instead of your computer mouse.
