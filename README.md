@@ -32,6 +32,8 @@
 **search tokens:**
 - EEG mouse  brain-computer interface
 - BCI mouse
+- site:medium.com eeg cursor|mouse
+- site:github.com eeg cursor|mouse
 
 
 **Devices:**
