@@ -13,6 +13,7 @@
 - https://github.com/kevinjycui/EEG-Cursor-Control
 - https://openbci.com/ & https://github.com/OpenBCI
 - https://github.com/meagmohit/EEG-Datasets
+- https://www.youtube.com/watch?v=NmZXruqbTVs
 
 **Devices:**
 
@@ -51,6 +52,7 @@
 
   https://medium.com/analytics-vidhya/brain-research-on-the-cheap-ec9710a6c21b 
   
+- Mind Technlogies : https://www.youtube.com/watch?v=8EElJaltjn0
   
 **search tokens:**
 - EEG mouse  brain-computer interface
