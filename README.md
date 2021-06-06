@@ -26,6 +26,9 @@
 
 
 **Literature:**
+
+- https://robologiclab.com/mindwriting-software-that-transform-thoughts-into-words-and-sentences/
+
 - Of Mice and Mind: Creating a simple EEG cursor-control application
 
   https://medium.com/@kevinjycui/of-mice-and-mind-creating-a-simple-eeg-cursor-control-application-7fcdad703d2f
